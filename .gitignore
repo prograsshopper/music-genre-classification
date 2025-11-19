@@ -212,3 +212,4 @@ __marimo__/
 # Data files
 data/
 *.csv
+*.bin
